@@ -20,6 +20,11 @@
 ---
 
 ## 🛠️ Skills & Tools  
+- **Languages**: HTML, CSS, JavaScript  
+- **Frameworks**: React (learning)  
+- **Tools**: Git, GitHub, VS Code, Figma  
+- **Other**: Responsive design, UX/UI basics  
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,figma,vscode" />
 </p>
@@ -37,6 +42,16 @@
 - 🏃 I love sports and fitness (coaching kids’ soccer ⚽)  
 - 🎨 I enjoy creating modern and minimalistic designs  
 - 🌱 Personal goal: combine design & coding skills to build beautiful web apps  
+
+---
+
+## 📊 GitHub Stats  
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Valeriia0799&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valeriia0799&layout=compact&theme=radical" alt="Top languages" />
+</p>
 
 ---
 
