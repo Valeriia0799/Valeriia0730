@@ -13,11 +13,16 @@
 
 ---
 
-## 🚀 Skills & Tools  
-- **Languages**: HTML, CSS, JavaScript  
-- **Frameworks**: React (learning)  
-- **Tools**: Git, GitHub, VS Code, Figma  
-- **Other**: Responsive design, UX/UI basics  
+## 🌍 Languages
+![Russian](https://img.shields.io/badge/Russian-Native-2962FF?style=for-the-badge)
+![English B2](https://img.shields.io/badge/English-B2-34A853?style=for-the-badge)
+
+---
+
+## 🛠️ Skills & Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,figma,vscode" />
+</p>
 
 ---
 
@@ -36,8 +41,9 @@
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/valeriia-lutskova-950b2b242/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/Valeriia0730)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Valeriia0799)  
 
 ---
+
 ⭐️ *Thanks for visiting my profile!*  
