@@ -33,9 +33,9 @@ Currently based in **California, USA**, I combine creativity with technical skil
 
 ---
 
-## 🌍 Languages  
-- 🇷🇺 Russian — Native  
-- 🇺🇸 English — B2 (Upper Intermediate)  
+## 🌍 Languages
+![Russian](https://img.shields.io/badge/Russian-Native-2962FF?style=for-the-badge)
+![English B2](https://img.shields.io/badge/English-B2-34A853?style=for-the-badge)
 
 ---
 
